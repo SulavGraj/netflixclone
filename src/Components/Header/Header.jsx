@@ -1,5 +1,5 @@
 import React from 'react'
-import logo from "/Users/lancerlancer/Desktop/cloning/netflix/src/Components/Home/ logo.png"
+import logo from "/Users/lancerlancer/Documents/movie patform/online movie platform/src/ logo.png"
 import {Link} from "react-router-dom"
 import {ImSearch} from "react-icons/im"
 
